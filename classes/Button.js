@@ -53,7 +53,7 @@ class button{
 		fill(this.corners);
 		ctx.fillStyle = "rgb(0, 0, 0)";
 		ctx.font = "30px Arial";
-		ctx.fillText(this.name, this.Min.x + 30, this.y + 15);
+		ctx.fillText(this.name, this.Min.x + 60, this.y + 15);
 	};
 };
 
